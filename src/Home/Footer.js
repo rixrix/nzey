@@ -5,7 +5,7 @@ class Footer extends Component {
         return (
             <footer className="App-footer mdl-mega-footer">
                 <div className="mdl-mega-footer--middle-section">
-                    <p className="mdl-typography--font-light">@mindginative</p>
+                    <p className="mdl-typography--font-light"><a href="https://twitter.com/mindginative" target="_blank">@mindginative</a></p>
                 </div>
             </footer>
         );
