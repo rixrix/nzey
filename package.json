@@ -1,6 +1,6 @@
 {
   "name": "nzey",
-  "description": "NZ,ey! is an RSS news feed reader around New Zealand built on top of React",
+  "description": "NZ,ey! RSS feed reader for news around New Zealand, built on top of React.js",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
