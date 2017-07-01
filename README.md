@@ -4,7 +4,9 @@ RSS feed reader for news around New Zealand, built on top of React.js
 
 ## Todo
 
-TBA
+* TravisCI
+* Add domain under mindginative
+* ~~Github pages deployment~~
 
 ## References
 
