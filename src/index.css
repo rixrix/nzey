@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+
+a img {
+    border: 0px;
+}
+
+::-moz-selection {
+    background-color: #6ab344;
+    color: #fff;
+}
+
+::selection {
+    background-color: #6ab344;
+    color: #fff;
+}

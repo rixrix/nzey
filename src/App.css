@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+}
+
+/**
+ * Header
+ */
+
+.App-logo {
+  height: 28px;
+  width: 140px;
+}
+
+.App-header {
+  overflow: visible;
+  background-color: white;
+}
+
+.App-header .mdl-menu__container {
+  z-index: 50;
+  margin: 0 !important;
+}
+
+/**
+ * List
+ */
+
+.App-news-list {
+  padding: 20px 50px;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #f3f3f3;
+}
+
+/**
+ * Footer
+ */
+
+.App-footer {
+  background-color: #fafafa;
+  position: relative;
+}
+
+.App-footer a:hover {
+  color: #8bc34a;
+}
+
+.App-footer .mdl-mega-footer--middle-section::after {
+  border-bottom: none;
+}
