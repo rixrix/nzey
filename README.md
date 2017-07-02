@@ -1,6 +1,6 @@
 # NZ,ey!
 
-RSS feed reader for news around New Zealand, built on top of [React](https://facebook.github.io/react/)
+RSS feed reader for news around New Zealand, built on top of Facebook's JavaScript [React](https://facebook.github.io/react/) library. See [http://nzey.mindginative.com](http://nzey.mindginative.com)
 
 ## Todo
 
