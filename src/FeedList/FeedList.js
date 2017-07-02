@@ -12,7 +12,7 @@ class FeedList extends Component {
 
     fetchRssFeed() {
         return new Promise((resolve, reject) => {
-            rss.parseURL('https://rss.msn.com/en-nz/', (error, response) => {
+            rss.parseURL('http://rss.msn.com/en-nz/', (error, response) => {
                 if (error) reject(error);
                 resolve(response);
             });
