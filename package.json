@@ -17,5 +17,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://rixrix.github.io/nzey"
+  "homepage": "http://nzey.mindginative.com"
 }
