@@ -10,6 +10,7 @@ RSS feed reader for news around New Zealand, built on top of Facebook's JavaScri
 * Google AMP project
 * Facebook instant articles
 * PWA progressive web application
+* React Native
 * ~~Add domain under mindginative~~
 * ~~Github pages deployment~~
 * ~~use MSN New Zealand feed~~
